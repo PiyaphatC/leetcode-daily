@@ -1,16 +1,27 @@
-# leetcode-daily
-Daily LeetCode and learning notes with Park
+# LeetCode Daily 🧩
 
-# LeetCode Learning Log
+Daily LeetCode practice log — solutions, notes, and lessons learned.
 
-Goal: Practice LeetCode daily and document my thinking.
+## Progress Log
+| Day | Problem | Approach |
+|---|---|---|
+| 1 | Two Sum | Index-based brute force |
+| 2 | Palindrome Number | String reversal |
+| 3 | Merge Two Sorted Lists | Two-pointer |
+| 4 | Roman to Integer | Character map |
+| 5 | Sqrt(x) | Binary search |
+| 6 | Valid Palindrome | Two-pointer |
+| 7 | Pascals Triangle | Dynamic programming |
 
-## Progress
-- Day 1: Two Sum — index-based brute-force approach
-- Day 2: Palindrome Number
-- Day 3: Merge two sorted list
-- Day 4: Roman to Integer
-- Day 5: Sqrt(x)
-- Day 6: Valid Palindrome
-- Day 7: Pascal's Triangle
-- 
+## Goal
+Practice algorithmic thinking daily and document solutions with notes on time/space complexity.
+
+## Structure
+Each solution is in its own file named `dayN_problem-name.py` with:
+- Problem description (link)
+- Approach explanation
+- Time & space complexity
+
+## Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
