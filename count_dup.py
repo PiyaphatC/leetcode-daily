@@ -1,4 +1,4 @@
-nums = [2,2,3,4,5,6,21,2,1]
+nums = [2,2,3,4,5,6,21,2]
 count = 0
 emp_lst = [] 
 for num in nums:
