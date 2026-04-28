@@ -1,7 +1,7 @@
-a = [1,2,3]
-emp = []
-for i in a:
-    emp.append(str(i))
-
-s = "".join(emp)
-print(int(s)+1)
+def plusOne(self, digits: List[int]) -> List[int]:
+    emp = []
+    for i in digits:
+        emp.append(str(i))
+    ans = str(int("".join(emp))+1)
+    ans_lst = [int(c) for c in ans]
+    return ans_lst
